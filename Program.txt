@@ -1,4 +1,2 @@
 get version 1.0
 people 32541
-010111001010
-Long array
